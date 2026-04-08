@@ -15,8 +15,8 @@
 // 6. Copy the Web App URL → paste into index.html as APPS_SCRIPT_URL
 //
 // YOUR EMAIL SETTINGS (edit these two lines):
-var SENDING_EMAIL   = "your-sending-account@gmail.com";   // Gmail that SENDS emails
-var RECEIVING_EMAIL = "your-receiving-account@gmail.com"; // Gmail that RECEIVES notifications
+var SENDING_EMAIL   = "kishore99669@gmail.com";   // Gmail that SENDS emails
+var RECEIVING_EMAIL = "madrikishorekumar@gmail.com"; // Gmail that RECEIVES notifications
 var SHEET_NAME      = "MickyMarvels_Leads";
 // ============================================================
 
